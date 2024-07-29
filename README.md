@@ -1,5 +1,5 @@
 # Este é um projeto utilizando Java EE e o Framework Spring boot com JavaWeb, JPA e H2
-O código está vem simples e consigo, o principal objetivo deste código é a implementação de um API Rest com Spring para teste da ferramenta.
+O código está bem simples e conciso, o principal objetivo deste código é a implementação de uma API Rest com Spring para teste das ferramentas Spring-Boot, H2, JPA e API-REST.
 
 A API Realiza apenas os métodos Get e Post no Banco de dados.
 ##
